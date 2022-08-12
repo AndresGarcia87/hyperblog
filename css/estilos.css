@@ -13,6 +13,22 @@ body {
     border: 1px solid #ddd;
     margin: 0 auto;
 }
+
+#cabecera {
+    background-color: #33a;
+    color: #fff;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+    box-shadow: 0px 9px 18px 0px rgba(0,0,0,0.21);
+}
+#tagline {
+    color: #fff;
+    padding-right: 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
 #container h1{
     font-size: 20px;
 }
