@@ -11,6 +11,7 @@ hola soy john tengo 33 años y estoy colaborando en este proyecto
 públicos para todos sus habitantes. 
 
 experimento 1
+experimento 2 
 
 master 1 
 master 2
