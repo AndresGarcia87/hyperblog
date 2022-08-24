@@ -8,3 +8,4 @@ Este sus un nuevo proyecto
 * melo
 * cual 
 * creado por andres garcia
+* incluta ejemploas en windows, linux y mac 
